@@ -10,14 +10,19 @@ exampleArr = [{
     property_id:22,
     value_id:4541
     }];
-out:    
+    
+out:  
+
 {
   '21': [ { property_id: 21, value_id: 125 } ],
   '22': [ { property_id: 22, value_id: 4541 } ]
 }
 
+
 example 2:
+
 in:
+
     const offer_un_typ_conf = [
         {
            'id' : 1,
@@ -86,7 +91,9 @@ in:
        }
    ];
 
+
 out:
+
 {
   '1': [ { id: 1, name_ru: 'цвет', value_ru: 'Цвет' } ],
   '2': [ { id: 2, name_ru: 'шт', value_ru: 'Количество шт.' } ],
