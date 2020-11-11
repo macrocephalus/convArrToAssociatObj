@@ -1,9 +1,10 @@
 # convArrToAssociatObj  (converting an array of objects to an associative array JS)
-
+```js
 const temp = convArrToAssociatObj(offer_un_typ_conf,"id");
-
+```
+h2 Example 1:
 in:
-
+``js
 exampleArr = [{
     property_id:21,
     value_id:125
@@ -11,7 +12,7 @@ exampleArr = [{
     property_id:22,
     value_id:4541
     }];
-    
+    ```
 out:  
 
 {
@@ -20,7 +21,7 @@ out:
 }
 
 
-example 2:
+h2 Example 2:
 
 in:
 
