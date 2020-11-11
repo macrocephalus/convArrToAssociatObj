@@ -90,13 +90,13 @@ in:
            'name_ru' : 'вольт',
            'value_ru' : 'Вольт'
        }
-   ];
+       ];
 
 
 out:
 
 {
-  '1': [ { id: 1, name_ru: 'цвет', value_ru: 'Цвет' } ],
+   '1': [ { id: 1, name_ru: 'цвет', value_ru: 'Цвет' } ],
   '2': [ { id: 2, name_ru: 'шт', value_ru: 'Количество шт.' } ],
   '3': [ { id: 3, name_ru: 'мл', value_ru: 'Ёмкость мл' } ],
   '4': [ { id: 4, name_ru: 'г', value_ru: 'Вес г.' } ],
