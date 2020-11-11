@@ -5,7 +5,7 @@ const temp = convArrToAssociatObj(offer_un_typ_conf,"id");
 ###  Example 1:
 
 in:
-
+```js
 exampleArr = [{
     property_id:21,
     value_id:125
@@ -13,7 +13,7 @@ exampleArr = [{
     property_id:22,
     value_id:4541
     }];
-
+```
 out:  
 
 {
@@ -25,7 +25,7 @@ out:
 ###  Example 2:
 
 in:
-
+```js
     const offer_un_typ_conf = [
         {
            'id' : 1,
@@ -94,7 +94,7 @@ in:
        }
        ];
 
-
+```
 out:
 
 {
