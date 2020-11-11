@@ -2,8 +2,7 @@
 ```js
 const temp = convArrToAssociatObj(offer_un_typ_conf,"id");
 ```
-
-h2 Example 1:
+###  Example 1:
 
 in:
 
@@ -23,7 +22,7 @@ out:
 }
 
 
-h2 Example 2:
+###  Example 2:
 
 in:
 
